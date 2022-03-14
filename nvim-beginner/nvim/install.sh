@@ -1,0 +1,1 @@
+../../../neovim-for-beginner/install.sh

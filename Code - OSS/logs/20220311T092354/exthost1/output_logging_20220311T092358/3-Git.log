@@ -1,0 +1,19 @@
+[2022-03-11T12:23:59.550Z] Validating found git in: git
+[2022-03-11T12:23:59.557Z] Using git 2.35.1 from git
+[2022-03-11T12:24:00.596Z] > git rev-parse --git-dir [14ms]
+[2022-03-11T12:24:00.599Z] Open repository: /home/mclovin/.config
+[2022-03-11T12:24:00.913Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/scripts.js [1ms]
+[2022-03-11T12:24:02.739Z] > git symbolic-ref --short HEAD [0ms]
+[2022-03-11T12:24:02.743Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [0ms]
+[2022-03-11T12:24:02.751Z] > git remote --verbose [1ms]
+[2022-03-11T12:24:02.752Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-03-11T12:24:02.769Z] > git config --get commit.template [0ms]
+[2022-03-11T12:24:25.794Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/login.php [2ms]
+[2022-03-11T12:24:26.141Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/chart-area-demo.js [2ms]
+[2022-03-11T12:24:26.855Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/index.php [1ms]
+[2022-03-11T12:24:33.484Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/chart-area-demo.js [2ms]
+[2022-03-11T12:29:05.545Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/index.php [1ms]
+[2022-03-11T12:31:07.084Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/scripts.js [2ms]
+[2022-03-11T12:31:26.594Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/chart-area-demo.js [1ms]
+[2022-03-11T12:31:27.365Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/index.php [2ms]
+[2022-03-11T12:31:51.158Z] > git ls-files --stage -- /home/mclovin/.config/Code - OSS/User/globalStorage/cweijan.vscode-ssh/temp/scripts.js [2ms]

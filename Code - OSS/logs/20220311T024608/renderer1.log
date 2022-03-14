@@ -1,0 +1,27 @@
+[2022-03-11 02:46:09.449] [renderer1] [warning] Ignoring the error while validating workspace folder ssh://administrador@10.111.140.49/ - No file system provider found for resource 'ssh://administrador@10.111.140.49/'
+[2022-03-11 02:46:09.818] [renderer1] [info] IExtensionHostStarter.start() took 14 ms.
+[2022-03-11 02:46:10.010] [renderer1] [error] [Extension Host] (node:6973) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-03-11 02:46:10.027] [renderer1] [error] No file system provider found for resource 'ssh://administrador@10.111.140.49/.vscode': ENOPRO: No file system provider found for resource 'ssh://administrador@10.111.140.49/.vscode'
+    at p.withProvider (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:35962)
+    at async p.exists (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:38427)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1797:6374
+    at async Promise.all (index 0)
+    at async k._initWorkspaceFolderSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1797:6539)
+[2022-03-11 02:46:10.059] [renderer1] [error] ENOPRO: No file system provider found for resource 'ssh://administrador@10.111.140.49/'
+    at p.withProvider (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:35962)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async p.doWatch (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:49016)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:48882
+[2022-03-11 02:46:33.155] [renderer1] [error] No file system provider found for resource 'ssh://administrador@10.111.140.49/.vscode': ENOPRO: No file system provider found for resource 'ssh://administrador@10.111.140.49/.vscode'
+    at p.withProvider (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:35962)
+    at async p.exists (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:38427)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1797:6374
+    at async Promise.all (index 0)
+    at async k._initWorkspaceFolderSnippets (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1797:6539)
+[2022-03-11 03:09:10.291] [renderer1] [error] No file system provider found for resource 'ssh://administrador@10.111.140.49/': ENOPRO: No file system provider found for resource 'ssh://administrador@10.111.140.49/'
+    at p.withProvider (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:35962)
+    at async p.exists (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:578:38427)
+    at async Promise.all (index 0)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1716:2097
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1196:34477

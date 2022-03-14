@@ -1,0 +1,49 @@
+2022/03/03-00:18:41.019 d6b1 Reusing MANIFEST /home/mclovin/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2022/03/03-00:18:41.019 d6b1 Recovering log #22
+2022/03/03-00:18:41.019 d6b1 Level-0 table #26: started
+2022/03/03-00:18:41.077 d6b1 Level-0 table #26: 22160 bytes OK
+2022/03/03-00:18:41.077 d6b1 Recovering log #25
+2022/03/03-00:18:41.077 d6b1 Reusing old log /home/mclovin/.config/notion-app/Partitions/notion/Local Storage/leveldb/000025.log 
+2022/03/03-00:18:41.128 d6b1 Delete type=0 #22
+2022/03/03-00:19:41.396 d6b1 Level-0 table #28: started
+2022/03/03-00:19:41.443 d6b1 Level-0 table #28: 30432 bytes OK
+2022/03/03-00:19:41.493 d6b1 Delete type=0 #25
+2022/03/03-00:20:54.685 d6b1 Level-0 table #30: started
+2022/03/03-00:20:54.743 d6b1 Level-0 table #30: 12614 bytes OK
+2022/03/03-00:20:54.808 d6b1 Delete type=0 #27
+2022/03/03-00:21:41.396 d6b2 Level-0 table #32: started
+2022/03/03-00:21:41.440 d6b2 Level-0 table #32: 12642 bytes OK
+2022/03/03-00:21:41.498 d6b2 Delete type=0 #29
+2022/03/03-00:21:41.498 d6b1 Compacting 4@0 + 1@1 files
+2022/03/03-00:21:41.531 d6b1 Generated table #33@0: 71 keys, 39956 bytes
+2022/03/03-00:21:41.531 d6b1 Compacted 4@0 + 1@1 files => 39956 bytes
+2022/03/03-00:21:41.590 d6b1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/03-00:21:41.590 d6b1 Delete type=2 #24
+2022/03/03-00:21:41.590 d6b1 Delete type=2 #26
+2022/03/03-00:21:41.590 d6b1 Delete type=2 #28
+2022/03/03-00:21:41.590 d6b1 Delete type=2 #30
+2022/03/03-00:21:41.590 d6b1 Delete type=2 #32
+2022/03/03-00:22:41.396 d6b2 Level-0 table #35: started
+2022/03/03-00:22:41.438 d6b2 Level-0 table #35: 13484 bytes OK
+2022/03/03-00:22:41.497 d6b2 Delete type=0 #31
+2022/03/03-00:28:47.377 d6cc Level-0 table #37: started
+2022/03/03-00:28:47.412 d6cc Level-0 table #37: 13007 bytes OK
+2022/03/03-00:28:47.487 d6cc Delete type=0 #34
+2022/03/03-00:38:47.432 d6b2 Level-0 table #39: started
+2022/03/03-00:38:47.471 d6b2 Level-0 table #39: 11498 bytes OK
+2022/03/03-00:38:47.513 d6b2 Delete type=0 #36
+2022/03/03-00:48:47.645 d6b2 Level-0 table #41: started
+2022/03/03-00:48:47.688 d6b2 Level-0 table #41: 11485 bytes OK
+2022/03/03-00:48:47.747 d6b2 Delete type=0 #38
+2022/03/03-00:48:47.747 d6cc Compacting 4@0 + 1@1 files
+2022/03/03-00:48:47.788 d6cc Generated table #42@0: 78 keys, 39917 bytes
+2022/03/03-00:48:47.788 d6cc Compacted 4@0 + 1@1 files => 39917 bytes
+2022/03/03-00:48:47.847 d6cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/03-00:48:47.847 d6cc Delete type=2 #33
+2022/03/03-00:48:47.847 d6cc Delete type=2 #35
+2022/03/03-00:48:47.847 d6cc Delete type=2 #37
+2022/03/03-00:48:47.847 d6cc Delete type=2 #39
+2022/03/03-00:48:47.847 d6cc Delete type=2 #41
+2022/03/03-00:58:47.915 d6b2 Level-0 table #44: started
+2022/03/03-00:58:47.961 d6b2 Level-0 table #44: 11483 bytes OK
+2022/03/03-00:58:48.044 d6b2 Delete type=0 #40

@@ -1,0 +1,14 @@
+[2022-03-11 09:23:58.659] [exthost] [info] Extension host with pid 2428 started
+[2022-03-11 09:23:58.659] [exthost] [info] Skipping acquiring lock for /home/mclovin/.config/Code - OSS/User/workspaceStorage/bdeedf8466ef779b3902cf3b453475ce.
+[2022-03-11 09:23:58.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-03-11 09:23:58.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-03-11 09:23:58.806] [exthost] [info] ExtensionService#_doActivateExtension cweijan.vscode-ssh, startup: true, activationEvent: '*'
+[2022-03-11 09:23:58.851] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-11 09:23:58.862] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-11 09:23:58.913] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-03-11 09:23:59.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-11 09:23:59.562] [exthost] [info] Eager extensions activated
+[2022-03-11 09:23:59.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-11 09:23:59.624] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-11 09:24:02.762] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 541
+[2022-03-11 09:24:25.603] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'

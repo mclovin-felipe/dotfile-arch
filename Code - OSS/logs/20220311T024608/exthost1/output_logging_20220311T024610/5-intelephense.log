@@ -1,0 +1,11 @@
+[Info  - 2:50:02 AM] Initialising intelephense 1.8.2
+[Info  - 2:50:02 AM] Reading state from /home/mclovin/.config/Code - OSS/User/workspaceStorage/bdeedf8466ef779b3902cf3b453475ce/bmewburn.vscode-intelephense-client/222a9980.
+[Info  - 2:50:02 AM] Initialised in 90 ms
+[Info  - 2:50:02 AM] Environment changed. Refreshing 1 in memory documents.
+[Info  - 2:50:02 AM] Searching file:///home/mclovin/.vscode-oss/extensions/bmewburn.vscode-intelephense-client-1.8.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 2:50:02 AM] Searching ssh://administrador@10.111.140.49 for files to index.
+[Warn  - 2:50:02 AM] Failed to read files in ssh://administrador@10.111.140.49. No file provider found for scheme.
+[Info  - 2:50:02 AM] Indexing started.
+[Info  - 2:50:04 AM] Indexing ended. 145 files indexed in 1s.
+[Info  - 2:50:04 AM] Writing state to /home/mclovin/.config/Code - OSS/User/workspaceStorage/bdeedf8466ef779b3902cf3b453475ce/bmewburn.vscode-intelephense-client/222a9980.
+[Info  - 2:50:04 AM] Wrote state in 0.1s.

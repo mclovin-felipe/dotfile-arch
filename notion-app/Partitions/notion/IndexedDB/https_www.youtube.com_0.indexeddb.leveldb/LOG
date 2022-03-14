@@ -1,0 +1,5 @@
+2022/03/02-23:22:58.395 cba7 Reusing MANIFEST /home/mclovin/.config/notion-app/Partitions/notion/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/03-00:15:10.074 d611 Level-0 table #5: started
+2022/03/03-00:15:10.124 d611 Level-0 table #5: 5155 bytes OK
+2022/03/03-00:15:10.174 d611 Delete type=0 #3
+2022/03/03-00:15:10.174 d611 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

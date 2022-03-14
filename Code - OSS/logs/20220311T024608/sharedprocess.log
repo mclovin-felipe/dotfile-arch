@@ -1,0 +1,6 @@
+[2022-03-11 02:46:10.273] [sharedprocess] [info] Starting worker process with pid 7037 (type: fileWatcher, window: 1).
+[2022-03-11 03:09:30.684] [sharedprocess] [info] Installing extension: dracula-theme-pro.theme-dracula-pro
+[2022-03-11 03:09:31.964] [sharedprocess] [info] Extracted extension to /home/mclovin/.vscode-oss/extensions/.4b478907-ad6e-4122-8497-765a76cecc02: dracula-theme-pro.theme-dracula-pro
+[2022-03-11 03:09:31.999] [sharedprocess] [info] Renamed to /home/mclovin/.vscode-oss/extensions/dracula-theme-pro.theme-dracula-pro-1.1.0
+[2022-03-11 03:09:31.999] [sharedprocess] [info] Extracting completed. dracula-theme-pro.theme-dracula-pro
+[2022-03-11 03:09:32.003] [sharedprocess] [info] Extension installed successfully: dracula-theme-pro.theme-dracula-pro

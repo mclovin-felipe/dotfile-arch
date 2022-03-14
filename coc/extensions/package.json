@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "coc-phpls": ">=2.2.2",
+    "coc-python": ">=1.2.13",
+    "coc-tsserver": ">=1.9.13"
+  }
+}

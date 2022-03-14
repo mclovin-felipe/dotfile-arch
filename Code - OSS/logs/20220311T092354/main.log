@@ -1,0 +1,4 @@
+[2022-03-11 09:23:55.080] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-03-11 09:23:55.274] [main] [info] ExtensionHostStarterWorker created
+[2022-03-11 09:23:56.583] [main] [info] Starting extension host with pid 2428 (fork() took 5 ms).
+[2022-03-11 09:23:56.583] [main] [info] ExtensionHostStarterWorker.start() took 6 ms.

@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Dracula Pro",
+    "sshfs.configs": [
+        {
+            "name": "unnamed"
+        }
+    ],
+    "editor.fontFamily": "'Jetbrains','Fira Code','Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 15
+}
