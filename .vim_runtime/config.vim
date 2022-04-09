@@ -1,7 +1,6 @@
 
 syntax on
 set background=dark
-colorscheme palenight
 set laststatus=2
 set showtabline=2
 set noshowmode
@@ -14,6 +13,9 @@ set relativenumber
 set mouse=a
 set title
 
+
+so $HOME/.vim_runtime/plugins/gruvbox.vim
+colorscheme gruvbox
 
 " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
@@ -31,4 +33,5 @@ so $HOME/.vim_runtime/shortcuts.vim
 so $HOME/.vim_runtime/plugins/lightline.vim
 so $HOME/.vim_runtime/plugins/fzf.vim
 so $HOME/.vim_runtime/plugins/syntactic.vim
+so $HOME/.vim_runtime/plugins/indent.vim
 
